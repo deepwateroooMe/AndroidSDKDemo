@@ -58,7 +58,7 @@ public class MySDKService extends Service {
 
             //这里不做操作直接返回即可
             if (mMySDKStatusCallBack != null) {
-                mySDKStatusCallBack.statusCallBackInvisible();
+                mySDKStatusCallBack.statusCallBackVisible();
             }
         }
 
