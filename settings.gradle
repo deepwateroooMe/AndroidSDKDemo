@@ -1,0 +1,4 @@
+rootProject.name='AndroidSDKDemo'
+include ':app'
+include ':mylibrary'
+include ':clienapp'
